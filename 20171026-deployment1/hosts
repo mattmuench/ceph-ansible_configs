@@ -1,0 +1,15 @@
+i[mons]
+cep03
+cep04
+cep05
+
+[osds]
+cep03 devices="[ '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde' ]"
+cep04 devices="[ '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde' ]"
+cep05 devices="[ '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde' ]"
+cep06 devices="[ '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde' ]"
+cep07 devices="[ '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde' ]"
+
+[rgws]
+cep01
+cep02
